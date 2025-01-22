@@ -1,0 +1,26 @@
+/* shared styles */
+.display:flex{
+display: flex;
+}
+.navbar{
+    justify-content: space-between;
+}
+/* header styles */
+/* navbar related styles */
+
+.nav-item{
+   list-style:none;
+   margin-right:30px;
+}
+.nav-link{
+    text-decoration:none;
+    font-weight:500;
+
+}
+.text-orange{
+    color:#FEA301;
+}
+
+.text-sky Blue{
+    color:#01ACFD;
+}
